@@ -18,3 +18,7 @@ retailers identify high-value customers who contribute significantly to sales an
 Age: The age of the customer, usually categorized into age groups or ranges. Age data is essential for understanding 
 the demographic composition of the customer base and tailoring marketing messages and product offerings to different age segments. Additionally,
 age information can inform decisions related to product design, packaging, and store layout to appeal to specific age demographics.
+
+
+
+![shop](https://github.com/Lavan1999/100-Dataset-6---Shopping-Dataset-/assets/152668558/2698f120-abba-4687-8679-26d860c093d6)
